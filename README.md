@@ -20,7 +20,7 @@ On the left side you can change what colors are flashing for which frequencies.
 If it's not working check if your Stereo Mix is showing you feedback when you're playing audio:
 https://i.imgur.com/2jNLP6q.png
 
-If everything is good with your Stereo Mix, check if the Baudrates you selected in processing and on your Arduino are the same.
-If you only see a gray Frame maybe you selected the wrong com port (just try all from 0-10) or you maybe didn't downloaded the Font.
+When everything is good with your Stereo Mix, check if the Baudrates you selected in processing and on your Arduino are the same.
+if you only see a gray or white Frame maybe you selected the wrong com port (just try all from 0-10) or you maybe didn't downloaded the Font.
 
 When it's still not working though, I would have to google for the problem aswell.
