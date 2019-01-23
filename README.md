@@ -2,7 +2,7 @@
 
 This Project is itended to help little programmers (like me) at making there LED Strip flash to music currently playing on a PC. I know there are lots of improvements to make to this code, but it works. And thats all I want.
 
-If you changed the Com Port and the Baudrate, so it works with your Arduino, you should see this:
+If you changed the com port and the Baudrate, so it works with your Arduino, you should see this:
 https://i.imgur.com/33MzPso.png
 
 This is the pretty basic interface. First of all you need to enable the Communication to your Arduino by pressing the Button.
@@ -16,4 +16,6 @@ On the left side you can change what colors are flashing for which frequencies.
 "Display Frequencies" kinda explains itself.
 
 If it's not working check if your Stereo Mix is showing you feedback when you're playing audio:
-<blockquote class="imgur-embed-pub" lang="en" data-id="2jNLP6q"><a href="//imgur.com/2jNLP6q"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+https://i.imgur.com/2jNLP6q.png
+If everything is good with your Stereo Mix, check if the Baudrates you selected in processing and on your Arduino are the same.
+If you only see a gray Frame maybe you selected the wrong com port (just try all from 0-10) or you maybe didn't downloaded the Font.
