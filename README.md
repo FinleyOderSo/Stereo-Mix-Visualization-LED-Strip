@@ -22,7 +22,7 @@ On the left side you can change what colors are flashing for which frequencies.
 
 
 
-If it's not working check if your Stereo Mix is showing you feedback when you're playing audio:
+If it's not working, check if your Stereo Mix is showing you feedback when you're playing audio:
 https://i.imgur.com/2jNLP6q.png
 
 When everything is good with your Stereo Mix, check if the Baudrates you selected in processing and on your Arduino are the same.
