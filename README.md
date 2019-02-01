@@ -26,8 +26,8 @@ If it's not working, check if your Stereo Mix is showing you feedback when you'r
 https://i.imgur.com/2jNLP6q.png
 
 When everything is good with your Stereo Mix, check if the Baudrates you selected in processing and on your Arduino are the same.
-if you only see a gray or white Frame maybe you selected the wrong com port (just try all from 0-10) or you maybe didn't downloaded the Font.
+if you only see a gray or white Frame maybe you selected the wrong com port (just try all from 0-10) or you maybe didn't download the Font.
 
-When it's still not working though, I would have to google for the problem aswell.
+When it's still not working though, I would have to google for the problem as well.
 
 But when it is working, you can export the program out of processing so you can run it alone. And don't forget to drag and drop the Fonts folder to the exported program's folder. Processing won't do that for you.
