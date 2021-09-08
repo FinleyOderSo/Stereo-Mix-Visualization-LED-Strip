@@ -1,7 +1,7 @@
 # Stereo-Mix-Visualization-LED-Strip
 
 This Project is itended to make your LED Strip flash to music currently playing on a PC.
-https://drive.google.com/file/d/1docsEvoW6l6tZkEzCPgXmAPVXm-fGCxy/view?usp=sharing
+Preview: https://drive.google.com/file/d/1docsEvoW6l6tZkEzCPgXmAPVXm-fGCxy/view?usp=sharing
 
 In the Arduino IDE:
 You may have to change a lot when you're using a different LED Type.
